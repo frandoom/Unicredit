@@ -41,3 +41,9 @@ nav{
 #test{
     margin-top: 1.5rem;
 }
+
+.kommoform{
+    min-width: 360px;
+    max-width: 992px;
+    height: auto;
+}
