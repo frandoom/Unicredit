@@ -7,6 +7,10 @@ html{
     font-family: 'Raleway', sans-serif;
 }
 
+nav{
+    max-height: 48px;
+}
+
 .myheadline{
     font-family: 'Homemade Apple', cursive;
 }
